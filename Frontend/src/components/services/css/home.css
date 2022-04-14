@@ -1,0 +1,191 @@
+
+.about{
+  /* background-image:url(https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);  */
+  /* background-image:url(https://images.pexels.com/photos/4050334/pexels-photo-4050334.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+ /* height: 750; */
+  /* background-position: center; */
+  /* padding-left: 100px; */
+  /* background-size: cover; */
+  margin:0 ;
+  padding: 0%;
+  font-family: sans-serif;
+
+}
+.aboutus{
+
+  padding: 0px 100px;
+  background: url(https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  padding-left: 200px;
+  padding-top: 120px;
+
+}
+
+.box{
+ 
+  
+  position: relative;
+  max-width: 1000px;
+  max-height:350px;
+  padding: 30px;
+
+ background: rgba(255,255,255,.5);
+ box-shadow: 0 5px 15px rgba(0,0,0,.5);
+ box-sizing:content-box;
+}
+
+ .loginpage{
+  padding: 0px 100px;
+  background-image:url(https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg?cs=srgb&dl=pexels-nordic-overdrive-627678.jpg&fm=jpg); 
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  padding-left: 200px;
+  padding-top: 120px;
+
+}
+
+  .AdminLoginPage{
+    text-align: center;
+    background-image:url(https://images.pexels.com/photos/1595483/pexels-photo-1595483.jpeg?cs=srgb&dl=pexels-adam-dubec-1595483.jpg&fm=jpg); 
+   position: fixed;
+   min-width: 100%;
+   min-height: 100%;
+   background-size: cover;
+   background-position: center;
+  }
+
+  .admincardbody {
+    position: fixed;
+    background-color: rgba(0,0,0,0.1);
+  }
+
+  .addcustomer{
+    text-align: center;
+    background-image:url(https://images.pexels.com/photos/1595483/pexels-photo-1595483.jpeg?cs=srgb&dl=pexels-adam-dubec-1595483.jpg&fm=jpg); 
+   
+   min-width: 100%;
+   min-height: 100%;
+   background-size: cover;
+   background-position: center;
+  }
+
+  /* .navbar{
+    position: fixed;
+    color: black;
+    background-color: rgba(0,0,0,0.1);
+  } */
+
+  /* .customerlist{
+    text-align: center;
+    background-image:url(https://images.pexels.com/photos/1595483/pexels-photo-1595483.jpeg?cs=srgb&dl=pexels-adam-dubec-1595483.jpg&fm=jpg); 
+   
+   min-width: 100%;
+   min-height: 100%;
+   background-size: cover;
+   background-position: 0%;
+  } */
+
+  .adminpage{
+    text-align: center;
+    background-image:url(https://images.pexels.com/photos/1595483/pexels-photo-1595483.jpeg?cs=srgb&dl=pexels-adam-dubec-1595483.jpg&fm=jpg); 
+   position: fixed;
+   min-width: 100%;
+   min-height: 100%;
+   background-size: cover;
+   background-position: center;
+
+  }
+
+  .cardname{
+    
+    position: fixed;
+    background-color: rgba(0,0,0,0.1);
+
+  }
+
+  .cardname1{
+    
+    position: fixed;
+    background-color: rgba(38, 0, 253, 0.1);
+
+  }
+
+   
+  .container:hover .overlay {
+    opacity: 1;
+}
+  
+.overlayFade {
+    height: 250px;
+    width: 250px;
+    top: 0;
+    left: 75px;
+    background-color: #9bcd9b;
+}
+
+.oooo {
+  background-color: rgb(209, 236, 146);
+}
+
+.customerlogin{
+  text-align: center;
+  background-image:url(https://images.pexels.com/photos/1837603/pexels-photo-1837603.jpeg?cs=srgb&dl=pexels-oleg-magni-1837603.jpg&fm=jpg); 
+ position: fixed;
+ min-width: 100%;
+ min-height: 100%;
+ background-size: cover;
+ background-position: center;
+}
+
+.customercard {
+  position: fixed;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.ServiceProviderLogin{
+  text-align: center;
+  background-image:url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg); 
+ position: fixed;
+ min-width: 100%;
+ min-height: 100%;
+ background-size: cover;
+ background-position: center;
+}
+
+.ServiceProvidercard {
+  position: fixed;
+  background-color: rgba(0,0,0,0.5);
+}
+
+/* .click:hover {
+  transform: scale(2);
+  transition-duration: 0.5s;
+} */
+
+.click:hover {
+  opacity: 0.3;
+}
+
+/* .header{
+  position: initial;
+  background-color: rgba(0,0,0,0,0.1);
+} */
+
+
+.Sppage{
+  text-align: center;
+  background-image:url(https://images.pexels.com/photos/1595483/pexels-photo-1595483.jpeg?cs=srgb&dl=pexels-adam-dubec-1595483.jpg&fm=jpg); 
+  position: fixed;
+ min-width: 100%;
+ min-height: 100%;
+ background-size: cover;
+ background-position: center;
+
+}
+
+

@@ -1,0 +1,50 @@
+.serviceproviderss{
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    /* background-color: orange; */
+   border-radius: 5px;
+
+background-image:url(https://images.pexels.com/photos/9310623/pexels-photo-9310623.jpeg?cs=srgb&dl=pexels-mo-9310623.jpg&fm=jpg); 
+ min-width: 100%;
+ min-height: 100%;
+ background-size: cover;
+ position: -webkit-sticky;
+ background-position: center;
+}
+
+.cards{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 10px;
+    margin: 40px 20px;
+    background-color: aliceblue;
+    /* background-color:  rgba(0,0,0,0.1); */
+}
+
+.serviceNames{
+    text-transform: uppercase;
+    margin: 10px 10px;
+   
+}
+
+/* .BookNow{
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: blueviolet;
+    color: black;
+    width: 60%;
+    height: 60%;
+    display: block;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin: 15px auto;
+} */
